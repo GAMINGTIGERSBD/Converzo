@@ -68,6 +68,22 @@ ul {
     background: #005bb5;
 }
 
+.download-btn2 {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 18px;
+    color: white;
+    background: #FFFF00;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s ease;
+}
+
+.download-btn2:hover {
+    background: #005bb5;
+}
+
 footer {
     text-align: center;
     padding: 15px;
